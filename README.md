@@ -1,6 +1,6 @@
 # Atlassian Jira / Confluence — AWS Cloud Migration
 
-Architecture design for migrating Atlassian Jira and Confluence Data Center from on-premises (IDC) to AWS, achieving **99.9% uptime** with a high-availability, multi-AZ architecture.
+Architecture design for migrating Atlassian Jira and Confluence Data Center from on-premises (IDC) to AWS, achieving **99.99% uptime** with a high-availability, multi-AZ architecture.
 
 ## AS-IS: On-Premises (IDC)
 
