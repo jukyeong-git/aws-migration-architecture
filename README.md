@@ -46,7 +46,7 @@ Zendesk, Workato, TestRail, ServiceNow, Slack, VictorOps — connected via Publi
 | Load Balancing | L4 Switch | ELB + ALB |
 | Storage | Shared File Storage | EFS + S3 |
 | DR | Manual failover | Automated cross-AZ DB Replication |
-| Uptime | ~99.5% | **99.9%** |
+| Uptime | ~99.5% | **99.99%** |
 
 ## Tools Used
 - **Diagramming:** Draw.io
